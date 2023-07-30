@@ -23,7 +23,7 @@ $background-color_1: #402d2d;
 
 .ml5 {
 	position: relative;
-	font-weight: 300;
+	font-weight: 600;
 	font-size: 4.5em;
 	color: $color_1;
 	.text-wrapper {
@@ -54,7 +54,7 @@ $background-color_1: #402d2d;
 		margin-left: -0.1em;
 	}
 	.letters {
-		display: inline-block;
+		display: inline;
 		opacity: 0;
 	}
 }
